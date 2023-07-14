@@ -1,4 +1,10 @@
 # self-instruct-zh
+
+future plan 
+
+1. amazon review and qa 是否能做成这种
+2. flybirds的规则集是否可以借鉴
+
 基于ChatGPT构建的中文self-instruct数据集
 
 ## 数据集构想：
